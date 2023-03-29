@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Products_MVVM</string>
+    <string name="price">$</string>
+    <string name="file_path">products_path</string>
+    <string name="error">Error in MyWorker</string>
+    <string name="All_Products">ALL PRODUCTS</string>
+    <string name="Favorites">FAVORITES</string>
+    <string name="Exit">EXIT</string>
+    <string name="delete">Remove</string>
+</resources>
